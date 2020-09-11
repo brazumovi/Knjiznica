@@ -13,7 +13,7 @@ public class GetCurrentDateTimeExample {
 	/**
 	 * Main
 	 * 
-	 * @param args
+	 * @param args Arguments
 	 */
 	public static void main(String[] args) {
 
