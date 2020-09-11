@@ -10,7 +10,6 @@ import java.util.Calendar;
  *
  */
 public class GetCurrentDateTimeExample {
-
 	/**
 	 * Main
 	 * 
