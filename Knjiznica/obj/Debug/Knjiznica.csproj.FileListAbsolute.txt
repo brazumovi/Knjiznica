@@ -1,0 +1,9 @@
+c:\users\hrvoje\documents\visual studio 2015\Projects\Knjiznica\Knjiznica\bin\Debug\Knjiznica.exe.config
+C:\Users\Hrvoje\Documents\Visual Studio 2015\Projects\Knjiznica\Knjiznica\bin\Debug\Knjiznica.exe
+C:\Users\Hrvoje\Documents\Visual Studio 2015\Projects\Knjiznica\Knjiznica\bin\Debug\Knjiznica.pdb
+C:\Users\Hrvoje\Documents\Visual Studio 2015\Projects\Knjiznica\Knjiznica\obj\Debug\Knjiznica.csprojResolveAssemblyReference.cache
+C:\Users\Hrvoje\Documents\Visual Studio 2015\Projects\Knjiznica\Knjiznica\obj\Debug\Knjiznica.knjiznicaMainForm.resources
+C:\Users\Hrvoje\Documents\Visual Studio 2015\Projects\Knjiznica\Knjiznica\obj\Debug\Knjiznica.Properties.Resources.resources
+C:\Users\Hrvoje\Documents\Visual Studio 2015\Projects\Knjiznica\Knjiznica\obj\Debug\Knjiznica.csproj.GenerateResource.Cache
+C:\Users\Hrvoje\Documents\Visual Studio 2015\Projects\Knjiznica\Knjiznica\obj\Debug\Knjiznica.exe
+C:\Users\Hrvoje\Documents\Visual Studio 2015\Projects\Knjiznica\Knjiznica\obj\Debug\Knjiznica.pdb
