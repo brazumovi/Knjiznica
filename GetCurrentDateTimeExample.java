@@ -5,7 +5,7 @@ import java.util.Calendar;
 /**
  * A class used for getting current date.
  * 
- * @author Bruno
+ * @author Bruno Razumovic
  * @version 1.0, 11 Sep 2020
  *
  */
@@ -13,7 +13,7 @@ public class GetCurrentDateTimeExample {
 	/**
 	 * Main
 	 * 
-	 * @param args
+	 * @param args Arguments
 	 */
 	public static void main(String[] args) {
 
