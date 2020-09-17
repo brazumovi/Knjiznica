@@ -11,7 +11,7 @@ import java.util.Calendar;
  */
 public class GetCurrentDateTimeExample {
 	/**
-	 * Main
+	 * Main app
 	 * 
 	 * @param args Arguments
 	 */
